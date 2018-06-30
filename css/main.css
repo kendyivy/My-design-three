@@ -1,0 +1,133 @@
+.main{
+  background-color: #e7e7e7;
+  width: 1000px;
+  height: 500px;
+  margin: 0px auto;
+  position: relative;
+  bottom: -20px;
+}
+.main2{
+  background-color: #0eb37b;
+  width: 1000px;
+  height: 300px;
+
+}
+h1{
+  color: white;
+  position: absolute;
+  left:100px;
+  
+}
+.fa-facebook-square{
+  
+  color: white;
+  position: absolute;
+  right: 170px;
+  top: 20px;
+}
+.fa-git-square{
+  color: white;
+  position: relative;
+  left: 850px;
+  top: 20px;
+}
+.fa-google-plus-square{
+  color: white;
+  position: relative;
+  left: 870px;
+  top: 20px;
+}
+.fa-whatsapp{
+  color: white;
+  position: relative;
+  left: 890px;
+  top: 20px;
+}
+.fa-git{
+  color: white;
+  position: relative;
+  left:290px;
+  top: 10px;
+}
+.main3{
+  width: 500px;
+  height: 250px;
+  background-color: #ffffff;
+  position: relative;
+  bottom:120px;
+  left: 290px;
+}
+h2{
+  width: 200px;
+  height: 25px;
+  background-color: #10b57d;
+  position: absolute;
+  top: -15px;
+  left: 205px;
+  color: white;
+  
+}
+h3{
+  color: black;
+  position: absolute;
+  left: 210px;
+  top: 20px;
+
+}
+h4{
+  color: black;
+  position: absolute;
+  left: 210px;
+  top: 50px;
+}
+hr{
+  color: black;
+  width: 156px;
+  position: relative;
+  top: -150px;
+  left: 40px;
+}
+p{
+  color: black;
+  position: absolute;
+  left:210px; 
+  top: 120px;
+}
+h5{
+  position: absolute;
+  left: 210px;
+  top: 140px;
+  color: black;
+}
+h6{
+  position: absolute;
+  left: 210px;
+  top: 160px;
+}
+.box2{
+  width: 500px;
+  height: 50px;
+  background-color: #0fb47c;
+  position: absolute;
+  top: 200px;
+}
+.fa-facebook{
+  color: white;
+  position: absolute;
+  left: 250px;
+  top: 10px;
+}
+.fa-google-plus{
+  color: white;
+  position: absolute;
+  left: 340px;
+  top: 10px;
+}
+.fa-wifi{
+  color: white;
+  position: absolute;
+  left: 390px;
+  top: 10px;
+}
+
+    
